@@ -1,7 +1,8 @@
-package com.stockportfoliobackend.service;
+package com.stockportfoliobackend.unit.service;
 
 import com.stockportfoliobackend.model.Stock;
 import com.stockportfoliobackend.repository.StockRepository;
+import com.stockportfoliobackend.service.StockService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
