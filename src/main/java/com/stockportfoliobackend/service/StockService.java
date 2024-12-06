@@ -1,6 +1,5 @@
 package com.stockportfoliobackend.service;
 
-import com.stockportfoliobackend.webclient.WebClientConfig;
 import com.stockportfoliobackend.model.Stock;
 import com.stockportfoliobackend.repository.StockRepository;
 import org.springframework.beans.factory.annotation.Autowired;
